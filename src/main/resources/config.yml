@@ -1,0 +1,49 @@
+prefix: "!"
+#This is the owner of the server's id!
+owner: "699366180355309619"
+#Here you put the prefix you want for the bot.
+botPrefix: "!"
+#This is the color the embed will have
+embedColor: "#de3e33"
+#Here is the category the tickets will land!
+category: "Tickets"
+#idfk
+cUOrRn: true
+#the cooldown till the ticket closes
+ticketCloseCountdown: 5
+#Support Roles, the ones who can see the ticket!
+supportRoles:
+  - "Staff"
+  - "BOSS"
+
+doneChannel: "929013457288831016"
+
+#Emoji Categories
+catagories: #"Name:emoji-id:emoji-name:animated:unicode-emoji(reaction):CategoryName(Optional)"
+  - "Staff Application:924066669880561675:pencil:false:📝:Staffapps"
+  - "Global / General:924066706014502942:rocket:false:🚀:General"
+  - "Prison:924066773865754644:pick:false:⛏:Prison"
+  - "Skyblock:924066781671333928:island:false:🏝️:Skyblock"
+
+ticketEmbedId: "928799001623547905"
+
+ticketChannelId: "928798990005313627"
+
+logChannelId: "927178843926724639"
+
+questions:
+  BugReport:
+    unicode: "😟"
+    Questions:
+      - "What issue are you having?"
+      - "Whats your mc username?"
+  something:
+    unicode: "😔"
+    Questions:
+      - "HOW ARE YOU DOING???"
+      - "HOW IS YOUR SON?"
+  somethingElse:
+    unicode: "🤭"
+    Questions:
+      - "HOW ARE YOU DOING???"
+      - "HOW IS YOUR DAD?"
