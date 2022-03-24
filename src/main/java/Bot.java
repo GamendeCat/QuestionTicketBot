@@ -52,7 +52,7 @@ public class Bot extends ListenerAdapter {
 
         CommandClient client = builder.build();
 
-        jda = JDABuilder.create("NzQwMjIyNjc0ODAyMDQ5MDc5.Xyl4Fg.fMd26cZEeeJfKOsYNbEjUTMy1Cc",
+        jda = JDABuilder.create("Token",
                 GatewayIntent.GUILD_MEMBERS,
                 GatewayIntent.GUILD_PRESENCES,
                 GatewayIntent.GUILD_MESSAGES,
